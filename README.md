@@ -20,7 +20,7 @@ These instructions will get you a copy of the project up and running on your loc
 To clone the repository, run the following command in your terminal:
 
 ```bash
-git clone https://github.com/boostr/be-test.git
+git clone https://github.com/Boostr-dev/be-test.git
 cd be-test
 bundle install
 rails db:create
