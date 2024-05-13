@@ -9,7 +9,7 @@ Welcome to the Backend Developer Boostr test. Clone this repository and run the 
 Before you begin, ensure you have met the following requirements:
 - Ruby (Version 3 or newer)
 - Rails (Version 7 or newer)
-- PostgreSQL (or another database that you've configured Rails to use)
+- PostgreSQL
 
 ## Getting Started
 
